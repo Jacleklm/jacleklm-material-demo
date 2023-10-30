@@ -12,4 +12,4 @@ intro component
 
 # npm 发布
 
-操作流程按 [文档](https://lowcode-engine.cn/site/docs/guide/quickStart/start#%E5%8F%91%E5%B8%83)，替换 url 后可以看到我们的[低代码描述](https://unpkg.com/jacleklm-material-demo@0.1.0/build/lowcode/meta.js)、[组件代码](https://unpkg.com/jacleklm-material-demo@0.1.0/build/lowcode/render/default/view.js)和[资产包描述](https://unpkg.com/jacleklm-material-demo@0.1.0/build/lowcode/assets-prod.json)
+操作流程按 [文档](https://lowcode-engine.cn/site/docs/guide/quickStart/start#%E5%8F%91%E5%B8%83)（还有个 npm adduser 步骤），替换 url 后可以看到我们的[低代码描述](https://unpkg.com/jacleklm-material-demo@0.1.0/build/lowcode/meta.js)、[组件代码](https://unpkg.com/jacleklm-material-demo@0.1.0/build/lowcode/render/default/view.js)和[资产包描述](https://unpkg.com/jacleklm-material-demo@0.1.0/build/lowcode/assets-prod.json)
